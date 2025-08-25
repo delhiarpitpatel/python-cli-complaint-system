@@ -19,7 +19,6 @@ A command-line based Complaint Management System built with Python and MySQL. Th
 ## Full Documentation
 
 For a complete overview of the project, including database structure, full source code analysis, and screenshots, please see the **[full project report here](./Complaint%20System%2024x7%20-%20arpit.pdf)**.
-*(Make sure to replace the PDF filename with the exact name you uploaded!)*
 
 ---
 
